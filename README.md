@@ -1,6 +1,6 @@
 # Ayush Krishna Garg
 
-[LinkedIn](https://linkedin.com/in/ayush-krishna-garg) | [Email](mailto:017ayushgarg@gmail.com) | [GitHub](https://github.com/Ayush-K-Garg)
+[LinkedIn](https://www.linkedin.com/in/ayush-krishna-garg-7aa61a28a/) | [Email](mailto:017ayushgarg@gmail.com) | [GitHub](https://github.com/Ayush-K-Garg)
 
 I am an Electronics and Communication Engineering undergraduate at the National Institute of Technology, Jamshedpur. As a software engineer, my focus centers on core computer science fundamentals, robust algorithmic problem-solving, and the architecture of high-performance distributed systems.
 
