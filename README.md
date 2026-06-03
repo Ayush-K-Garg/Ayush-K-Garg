@@ -54,20 +54,15 @@ I am an Electronics and Communication Engineering undergraduate at the National 
 * Attained high-speed data throughput of 250 MB/s during concurrent I/O operations by implementing a custom C++ thread pool and parallel chunking strategies.
 * Ensured strict fault tolerance and data integrity using RF=2 replication patterns and end-to-end SHA-256 validation.
 
-###  CodeExplain — AI Repository Tutor
-**Python • FastAPI • React.js • LangChain • FAISS • Gemini API • Docker**
+### CodeExplain — AI Repository Tutor
+> **Tech Stack:** Python, FastAPI, React.js, LangChain, FAISS, Gemini API, Docker
 
-Built a production-grade RAG platform that enables developers to chat with GitHub repositories and ZIP uploads using semantic code search and AI-powered explanations.
+* Built a production-grade RAG platform that enables developers to chat with GitHub repositories and ZIP uploads using AI-powered code understanding.
+* Implemented language-aware code chunking, Gemini embeddings, and FAISS vector search for accurate repository-level semantic retrieval.
+* Designed a scalable Three-Tier FastAPI backend supporting session-aware multi-turn conversations and fault-tolerant API handling.
+* Optimized deployment for free-tier infrastructure (<100 MB memory) and reduced repository ingestion time by up to 99% through shallow Git cloning.
 
-- Language-aware code chunking using LangChain AST splitters
-- Gemini embeddings + FAISS vector search
-- Three-tier FastAPI architecture with session-aware chat
-- Memory optimized (<100 MB) for free-tier deployments
-- 99% faster repository ingestion using shallow Git cloning
-- Custom Gemini embedding implementation for improved reliability
-
-🔗 [Live Demo](https://code-explain-eosin.vercel.app/)
-
+🔗 **Live Demo:** https://code-explain-eosin.vercel.app/
 ### Student Portal App (NIT JSR Attendance)
 > **Tech Stack:** Flutter, Dart, JavaScript Injection, Webscraping
 * Resolved a critical campus portal bottleneck, resulting in an end-user tool adopted by over 400 students.
