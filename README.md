@@ -54,6 +54,20 @@ I am an Electronics and Communication Engineering undergraduate at the National 
 * Attained high-speed data throughput of 250 MB/s during concurrent I/O operations by implementing a custom C++ thread pool and parallel chunking strategies.
 * Ensured strict fault tolerance and data integrity using RF=2 replication patterns and end-to-end SHA-256 validation.
 
+###  CodeExplain — AI Repository Tutor
+**Python • FastAPI • React.js • LangChain • FAISS • Gemini API • Docker**
+
+Built a production-grade RAG platform that enables developers to chat with GitHub repositories and ZIP uploads using semantic code search and AI-powered explanations.
+
+- Language-aware code chunking using LangChain AST splitters
+- Gemini embeddings + FAISS vector search
+- Three-tier FastAPI architecture with session-aware chat
+- Memory optimized (<100 MB) for free-tier deployments
+- 99% faster repository ingestion using shallow Git cloning
+- Custom Gemini embedding implementation for improved reliability
+
+🔗 [Live Demo](https://code-explain-eosin.vercel.app/)
+
 ### Student Portal App (NIT JSR Attendance)
 > **Tech Stack:** Flutter, Dart, JavaScript Injection, Webscraping
 * Resolved a critical campus portal bottleneck, resulting in an end-user tool adopted by over 400 students.
