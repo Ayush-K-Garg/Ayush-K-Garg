@@ -4,7 +4,7 @@
 
 I am an Electronics and Communication Engineering undergraduate at the National Institute of Technology, Jamshedpur. As a software engineer, my focus centers on core computer science fundamentals, robust algorithmic problem-solving, and the architecture of high-performance distributed systems.
 
-* **Algorithmic Problem Solving:** Solved 500+ problems across LeetCode and Codeforces, with a strong emphasis on complex data structures, algorithmic efficiency, and optimization.
+* **Algorithmic Problem Solving:** Solved 800+ problems across LeetCode and Codeforces, with a strong emphasis on complex data structures, algorithmic efficiency, and optimization.
 * **Current Focus:** Leading engineering teams, designing multi-threaded concurrent backends, and structuring scalable system architectures.
 * **Active Areas of Learning:** Integrating Generative AI technologies and developing high-throughput, modern microservices using Python and FastAPI.
 * **Core Domains:** Data Structures and Algorithms (DSA), network socket programming, and cross-platform architecture design.
@@ -36,14 +36,15 @@ I am an Electronics and Communication Engineering undergraduate at the National 
 
 ## Algorithmic & Academic Achievements
 
-* **Competitive Programming**
+- **Hackathons & Competitions**
+  * **Amazon HackOn 6.0:** Semi-finalist; ranked in the top 300 teams out of 70,000+ registrations.
+- **Competitive Programming**
   * **LeetCode:** Achieved a Peak Global Rank of 2,147 among 27,350 participants in Weekly Contest 501; current Contest Rating of 1640.
   * **Codeforces:** Achieved a Global Rank of 7,313 in Div. 2 rounds.
-* **Academics**
+- **Academics**
   * **JEE Main 2023:** Secured All India Rank (AIR) 13,555 (98.84 percentile) out of 1.2 million candidates.
   * **NIT Jamshedpur:** Current Cumulative GPA of 8.40 / 10.0.
   * **Mathematics Olympiad:** Awarded Top 20 State Rank in the SOF International Mathematics Olympiad (IMO).
-
 ---
 
 ## Featured Engineering Projects
